@@ -4,8 +4,6 @@
 
 Project sử dụng dataset ảnh hoa gồm 10 lớp để huấn luyện mô hình CNN.
 
-Dataset không được upload trực tiếp lên GitHub vì dung lượng lớn.
-
 ### Các lớp dữ liệu
 
 - Daisy
