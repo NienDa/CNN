@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Dataset
+DoAn_Iris_CNN/dataset/
+
+# Model files
+DoAn_Iris_CNN/*.keras
+DoAn_Iris_CNN/*.h5
+DoAn_Iris_CNN/*.pt
+DoAn_Iris_CNN/*.pth
+
+# Notebook
+.ipynb_checkpoints/
